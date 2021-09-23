@@ -9,53 +9,61 @@ namespace HandsOnCollection
     class Consumer
     {
         private int number;
-        public int Number
-        {
-            get
-            {
-                return number;
-            }
-            set
-            {
-                number = value;
-            }
+        //private string name;
+        //private int totalUnits;
+        //private int totalAmount;
+        //private int costPerUnit;
+        //private int billNumber;
+        //private DateTime date;
 
-        }
 
-        private string name;
-        public string Name {
-            get { return name; }
-            set { name = value; } 
-        }
-        private int totalUnits;
-        public int TotalUnits {
-            get { return totalUnits; }
-            set {totalUnits = value; } 
-        }
+        public int Number { get; set; }
+        //{
+        //    get
+        //    {
+        //        return number;
+        //    }
+        //    set
+        //    {
+        //        number = value;
+        //    }
 
-        private int totalAmount;
-        public int TotalAmount {
-            get {return totalAmount; }
-            set {totalAmount = value; } 
-        }
+        //}
 
-        private int costPerUnit;
-        public int CostPerUnit {
-            get { return costPerUnit; }
-            set { costPerUnit = value; }
-        }
+        public string Name { get; set; }
+        //{
+        //    get { return name; }
+        //    set { name = value; } 
+        //}
+        public int TotalUnits { get; set; }
+        //{
+        //    get { return totalUnits; }
+        //    set {totalUnits = value; } 
+        //}
 
-        private int billNumber;
-        public int BillNumber {
-            get { return billNumber; }
-            set { billNumber = value; }
-        }
+        public int TotalAmount { get; set; }
+        //{
+        //    get {return totalAmount; }
+        //    set {totalAmount = value; } 
+        //}
 
-        private DateTime date;
-        public DateTime Date {
-            get {return date; }
-            set {date = value; } 
-        }
+        public int CostPerUnit { get; set; }
+        //{
+        //    get { return costPerUnit; }
+        //    set { costPerUnit = value; }
+        //}
+
+        public int BillNumber { get; set; }
+        //{
+        //    get { return billNumber; }
+        //    set { billNumber = value; }
+        //}
+
+        public DateTime Date { get; set; }
+        //{
+        //    get {return date; }
+        //    set {date = value; } 
+        //}
        
         
     }
