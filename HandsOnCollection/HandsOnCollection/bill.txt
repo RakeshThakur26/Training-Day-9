@@ -1,0 +1,14 @@
+**************************************
+Bill details of comsumer : 12
+Bill number : 83
+Consumer number : 12
+Total Amount : 500
+Due date : 22-10-2021 18:04:46
+
+**************************************
+Bill details of comsumer : 21
+Bill number : 74
+Consumer number : 21
+Total Amount : 50
+Due date : 22-10-2021 18:05:23
+

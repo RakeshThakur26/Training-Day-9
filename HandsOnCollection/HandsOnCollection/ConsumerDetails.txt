@@ -1,0 +1,12 @@
+************************
+Consumer name : Rakesh
+Consumer Number : 12
+Total units : 10
+Cost per unit : 50
+
+************************
+Consumer name : Thakur
+Consumer Number : 21
+Total units : 5
+Cost per unit : 10
+
